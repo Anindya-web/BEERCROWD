@@ -3,4 +3,4 @@ b = int(input())
 
 X = a+b
 
-print("X = ", X)
+print(f"X  = {X} ")
